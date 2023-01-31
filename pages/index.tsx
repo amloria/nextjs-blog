@@ -23,12 +23,14 @@ export default function Home({
       <section className={utilStyles.headingMd}>
         <p>
           Hi there! I'm Agustin, a web developer based in Brittany.
+        </p>
+        <p>
           My goal is to help people by creating accessible, high quality and
           performing web applications.
         </p>
         <p>
           You can contact me on{" "}
-          <a href="https://www.linkedin.com/in/agustin-loria/">Linkedin</a>
+          <a href="https://www.linkedin.com/in/agustin-loria/">Linkedin</a>.
         </p>
         <small>
         (This is a sample website - you’ll be building a site like this on{" "}
