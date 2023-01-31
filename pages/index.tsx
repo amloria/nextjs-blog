@@ -22,7 +22,7 @@ export default function Home({
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi there! I'm Agustin, a junior fullstack developer based in Brittany.
+          Hi there! I'm Agustin, a web developer based in Brittany.
           My goal is to help people by creating accessible, high quality and
           performing web applications.
         </p>
