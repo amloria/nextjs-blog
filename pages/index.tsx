@@ -21,14 +21,19 @@ export default function Home({
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi there! I'm Agustin, a junior fullstack developer based in Brittany.
-          My goal is to help people by creating accessible, high quality and
-          performing web applications. You can contact me on{" "}
-          <a href="https://www.linkedin.com/in/agustin-loria/">Linkedin</a></p>
         <p>
+          Hi there! I'm Agustin, a junior fullstack developer based in Brittany.
+          My goal is to help people by creating accessible, high quality and
+          performing web applications.
+        </p>
+        <p>
+          You can contact me on{" "}
+          <a href="https://www.linkedin.com/in/agustin-loria/">Linkedin</a>
+        </p>
+        <small>
         (This is a sample website - you’ll be building a site like this on{" "}
           <a href="https://nextjs.org/learn">the Next.js tutorial</a>.)
-        </p>
+        </small>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
