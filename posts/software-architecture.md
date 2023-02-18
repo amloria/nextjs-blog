@@ -1,5 +1,5 @@
 ---
-title: "Software architecture, what is it?"
+title: "Software architecture, what is it ?"
 date: "2023-01-31"
 ---
 
